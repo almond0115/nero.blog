@@ -4,7 +4,7 @@ module.exports = {
   author: "Nero",
   siteUrl: "https://devnero.com/",
   links: {
-    github: "https://github.com/almond0115",
+    github: "https://github.com/nero-coding",
     linkedIn: "https://www.linkedin.com/in/jonghyunjung",
     // facebook: "https://www.facebook.com",
     // twitter: "https://twitter.com",
