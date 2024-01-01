@@ -1,6 +1,6 @@
 ---
 title: "📚 1. Git과 Github"
-description:
+description: "Git과 Github 에 대해 배워봅시다."
 date: 2024-01-01
 update: 2024-01-01
 tags:
@@ -24,6 +24,8 @@ series: "Git & Github 톺아보기"
 `Git`을 사용하는 가장 큰 이유는 **버전 관리**와 **협업**입니다.
 `Git`은 지역 저장소에서 버전 관리가 수행됩니다. <br>
 그렇기 때문에 원격 저장소나 네트워크에 문제가 있어도 작업이 가능합니다.
+
+![git_1](/my-nero-blog/static/git_1.png)
 
 ## Github 란 무엇인가?
 
