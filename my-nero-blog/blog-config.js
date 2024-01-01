@@ -2,7 +2,7 @@ module.exports = {
   title: "nero.blog",
   description: "꾸준히, 의미있는 학습을 기록하기 위한 공간입니다.",
   author: "Nero",
-  siteUrl: "https://nero.blog/",
+  siteUrl: "https://nero-coding.blog/",
   links: {
     github: "https://github.com/nero-coding",
     linkedIn: "https://www.linkedin.com/in/jonghyunjung",
