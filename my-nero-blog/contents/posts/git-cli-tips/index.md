@@ -25,7 +25,7 @@ series: "Git & Github 톺아보기"
 `Git`은 지역 저장소에서 버전 관리가 수행됩니다. <br>
 그렇기 때문에 원격 저장소나 네트워크에 문제가 있어도 작업이 가능합니다.
 
-![git_1](/my-nero-blog/static/git_1.png)
+![git_1](/my-nero-blog/contents/posts/images/git_1.png)
 
 ## Github 란 무엇인가?
 
