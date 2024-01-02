@@ -2,7 +2,7 @@
   "name": "nero-coding",
   "private": false,
   "description": "nero tech blogs.",
-  "homepage": "https://devnero.github.io/nerocoding/",
+  "homepage": "https://nero-coding.blog",
   "version": "0.2.0",
   "author": "Nero",
   "dependencies": {
@@ -79,9 +79,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/almond0115/nero.blog"
+    "url": "https://github.com/viaunixue/nero-coding.blog"
   },
   "bugs": {
-    "url": "https://github.com/almond0115/nero.blog"
+    "url": "https://github.com/viaunixue/nero-coding.blog"
   }
 }

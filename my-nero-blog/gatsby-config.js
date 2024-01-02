@@ -39,7 +39,6 @@ module.exports = {
     "gatsby-plugin-styled-components",
     "gatsby-remark-reading-time",
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-image`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
@@ -54,13 +53,6 @@ module.exports = {
         display: `standalone`,
         icon: `static/favicon.png`,
       },
-    },
-    {
-      resolves: `gatsby-source-filesystem`,
-      options: {
-        name: `images`,
-        path: `${__dirname}/contents/posts/images`,
-      }
     },
     {
       resolve: `gatsby-source-filesystem`,

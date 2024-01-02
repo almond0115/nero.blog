@@ -1,5 +1,5 @@
 module.exports = {
-  title: "nero.blog",
+  title: "nero.devlog",
   description: "꾸준히, 의미있는 학습을 기록하기 위한 공간입니다.",
   author: "devNero",
   siteUrl: "https://nero-coding.blog/",
@@ -17,7 +17,7 @@ module.exports = {
     link: "https://nero-coding.blog",
   },
   utterances: {
-    repo: "almond0115/nero.blog",
+    repo: "viaunixue/nero-coding.blog",
     type: "pathname",
   },
 }
