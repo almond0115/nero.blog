@@ -37,7 +37,7 @@ git config --global user.name <myName>
 
 * **untracked files** : 아직 `Git`이 관리하지 않는 파일입니다. 보안에 위협이 되는 파일은 `git`으로 관리하지 않는 것을 권장합니다.
 
-    ![git_2](/my-nero-blog/contents/posts/git-cli-tips/img/git_2.png)
+    ![git_2](./images/git_2.png)
 
     `git init` 명령어 실행 후 새로운 파일을 추가하면 `untracked file`이 추가됩니다.
 
