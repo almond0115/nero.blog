@@ -12,7 +12,7 @@ tags:
 series: "Git & GitHub"
 ---
 
-# Merge
+## Merge
 
 `Git` 에서는 Branch를 만들어 작업하는 것이 일반적이기 때문에 작업 후 해당 브랜치를 Main 브랜치에 합치는 `Merge`는 아주 중요합니다.
 
@@ -26,22 +26,30 @@ series: "Git & GitHub"
 GitHub의 PR은 무조건 `--no--ff` 로 머지했지 때문에 항상 Merge 커밋이 남게 됩니다.
 
 <details>
-<summary><b> 3-Way Merge와 fast-forward Merge 차이는 뭘까? </b></summary>
+<summary><b> 3-Way Merge와 fast-forward Merge, Squash & merge 차이는 뭘까? </b></summary>
 
 ![그림 1. 3-Way Merge](./images/git_14.png)
 **기존 branch와 새로운 branch를 각각 합치는 방법입니다.**
 
+<br>
+
 ![그림 2. fast-forward Merge](./images/git_15.png)
 **기준이 되는 Main Branch에 신규 commit이 없으면 자동으로 Fast-forward Merge 가 됩니다.**
 
-</details>
 <br>
 
-# Rebase
+![그림 3. Squash & Merge](./images/git_17.png)
+**Squash Merge는 필요 없어진 Branch들 모두 표시해줍니다.**
+
+</details>
+
+<br>
+
+## Rebase
 
 `Rebase`는 `Git`을 배울 때 가장 어려운 부분이지만 제대로 쓰기 위해서 필수 명령어라고 생각합니다.
 
-## Rebase 사용하기 - 기본편
+### Rebase 사용하기 - 기본편
 
 ![그림 3. 두 개의 브랜치로 나누어진 커밋 히스토리](./images/git_4.png)
 
@@ -75,7 +83,7 @@ $ git merge experiment
 `Merge`보다 `Rebase`가 좀 더 깨끗한 히스토리를 만드는 것을 확인할 수 있습니다. <br>
 일을 병렬로 동시에 진행해도 `Rebase`를 하고 나면 모든 작업이 선형으로 차례대로 수행된 것처럼 보이게 됩니다.
 
-## Rebase 사용하기 - 응용편
+### Rebase 사용하기 - 응용편
 
 ![그림 5. 다른 브랜치에서 갈라져 나온 브랜치들](./images/git_8.png)
 
@@ -122,7 +130,7 @@ $ git branch -d client
 $ git branch -d server
 ```
 
-## Rebase 사용 시 주의할 점
+### Rebase 사용 시 주의할 점
 
 Rebase는 기존의 커밋을 그대로 사용하는 것이 아니라 내용은 같지만 다른 커밋을 새로 만듭니다.
 
@@ -136,7 +144,7 @@ Rebase는 기존의 커밋을 그대로 사용하는 것이 아니라 내용은 
 &rarr; **따라서 협업 관점에서 Rebase는 적극적으로 권장하지 않는 편입니다.**
  
 
-## Rebase 충돌 시 해결법
+### Rebase 충돌 시 해결법
 
 부드럽게 `merge` 된다면 좋겠지만 충돌이 생기면 개발자가 `conflict`를 해결하고나 **rebase를** 취소할 수 있도록 해야 합니다.
 
@@ -174,11 +182,17 @@ Rebase는 기존의 커밋을 그대로 사용하는 것이 아니라 내용은 
     $ git rebase -X theirs master # 짧은 버전
     ```
 
-# Squash
+## Squash
 
 `Squash`는 PR의 모든 커밋을 합쳐서 하나의 커밋으로 만드는 기능입니다.
 
 ![그림 10. Squash and Merge](./images/git_16.png)
+
+```
+git switch main
+git merge --squash <브랜치명>
+git commit -m "Message"
+```
 
 ### Rebase와 무슨 차이일까?
 
@@ -188,4 +202,10 @@ Rebase는 기존의 커밋을 그대로 사용하는 것이 아니라 내용은 
 
 `Squash` 기본 규칙으로 가게 하면서 하나의 커밋 (Pull Request 내에서는 여러 커밋이 있지만 결국은 하나로 합쳐지므로)에는 너무 많은 변경 사항이 담기지 않도록 서로 노력하는 게 더 쉬웠고 문제가 생겼을 때 Revert 할 단위도 커밋 단위로 만들 수 있습니다.
 
-> 결국 PR 하나가 
+> 결국 PR 하나가 하나의 원자적 단위가 되는데 모든 커밋이 빌드할 수 있어야 하는 건 중요하고 그래야 어느 커밋으로도 되돌아갈 수 있는데 PR에서 모든 커밋에서 다 CI를 돌리지 않지만, `Squash`로 한다면 모든 커밋에서 CI가 통과했다는 보장을 받을 수 있습니다.
+
+## 결론
+
+* Rebase & Merge &rarr; 개인이 진행하는 사이드 프로젝트
+* Squash & Merge &rarr; Git 에 능숙한 팀원들과 함께하는 프로젝트
+* 3-Way Merge &rarr; Git 에 익숙하지 않은 팀원들과 함께하는 프로젝트

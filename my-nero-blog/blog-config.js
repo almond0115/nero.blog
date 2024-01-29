@@ -13,8 +13,8 @@ module.exports = {
     // medium: "https://medium.com",
     // blogger: "https://blogger.com",
     email: "mailto:jjh3543@naver.com",
-    resume: "https://nero-coding.blog",
-    link: "https://nero-coding.blog",
+    // resume: "https://nero-coding.blog",
+    // link: "https://nero-coding.blog",
   },
   utterances: {
     repo: "viaunixue/nero-coding.blog",
