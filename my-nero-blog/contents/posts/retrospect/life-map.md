@@ -13,7 +13,7 @@ series: "개인 회고"
 
 ## 프롤로그 : 전염의 힘 🌟
 
-<blockquote style="background-color: #f0f0f0; border-left: 5px solid #333; padding: 15px; margin: 20px 0;">
+<blockquote style="color: black; background-color: #f0f0f0; border-left: 5px solid #333; padding: 15px; margin: 20px 0;">
     <strong>"타자를 변화시키는 것은 계몽이 아니라 전염이다"</strong> - 은유, <올드 걸의 시집>
 </blockquote>
 
@@ -23,17 +23,18 @@ series: "개인 회고"
 
 제 삶의 지도의 마지막이 찾아왔을 때 다시 걸어온 길을 돌아본다면 분명 Low Level 단에서 저는 이 글귀에 대한 로직이 기반이 되어 모든 생각과 행동을 남기지 않았을까 생각합니다.
 
-<div style="background-color: #e6f3ff; border: 1px solid #b3d9ff; padding: 15px; margin: 20px 0; border-radius: 5px;">
+<div style="color: black; background-color: #e6f3ff; border: 1px solid #b3d9ff; padding: 15px; margin: 20px 0; border-radius: 5px;">
   <strong>💡 핵심 통찰:</strong> 개발자에게는 구현 능력 못지않게 <strong>선한 영향력</strong>을 프로덕트에 담아 팀과 사회에 전파하는 것이 중요합니다.
 </div>
 
-## 과학에서 인문학으로 : 수험생에서 재수생, 대학교 입학까지 🪄
+## 과학에서 인문학으로
+### 수험생에서 재수생, 대학교 입학까지 🪄
 
 강남 8학군에서 시작된 저의 첫 대학 입시는 명문대 입학이 당연시되면서 내신 5등급의 저에게 사회에 대한 불만과 열등감을 선물해주었습니다. 취업이 잘된다는 이유만으로 선택했던 이과에서 다가오는 첫 수능 실패는 찾아오는 겨울, 고립된 인간관계와 미래에 대한 목표 상실로 귀결되어 있었습니다. 
 
 물론 어느정도 예상했던 미래였기에 나름 담담하게 받아들였던 것 같지만 돈도 없고 집에도 들어가기 싫던 그 당시 저에게 아무도 안오는 집앞 작은 동네 서점만이 유일한 도피처였습니다. 이때 이 작은 서점에서 정신적인 위안을 받기 위해 겨울 내내 읽기 시작한 심리학 서적들은 단순히 책을 읽는 수준을 넘어 심리학 관련 논문을 찾아보기까지 했고 이 분야에 대한 깊이를 느끼게 되었습니다. 
 
-<div style="background-color: #e6f3ff; border: 1px solid #b3d9ff; padding: 15px; margin: 20px 0; border-radius: 5px;">
+<div style="color: black; background-color: #e6f3ff; border: 1px solid #b3d9ff; padding: 15px; margin: 20px 0; border-radius: 5px;">
     <strong>🔍 전환점:</strong> 작은 동네 서점에서 시작된 심리학 탐구가 인생의 방향을 바꾸는 계기가 되었습니다.
 </div>
 
@@ -43,15 +44,16 @@ series: "개인 회고"
 
 어떻게 이런 결과를 얻을 수 있었을까 돌이켜보면 열등감이 가득했던 수험생 시절 저에게 주어진 고립된 시간이 높은 허들을 넘을 수 있도록 도와주었다고 생각합니다. 주변에서의 압박감에서 벗어나 내 선택을 직접 만들어본 적 없던 수험생 시절에는 넘지 못한 허들을 넘게되면서 제 삶에 큰 변화가 찾아온 것이라 생각합니다.
 
-<div style="background-color: #d4edda; border: 1px solid #c3e6cb; padding: 15px; margin: 20px 0; border-radius: 5px;">
+<div style="color: black; background-color: #d4edda; border: 1px solid #c3e6cb; padding: 15px; margin: 20px 0; border-radius: 5px;">
     <strong>🌟 깨달음:</strong> 고립된 시간과 실패의 경험이 오히려 큰 성장의 기회가 되었습니다. 이는 '전염'의 힘이 자기 자신에게도 작용될 수 있음을 보여준 것이라고 생각합니다.
 </div>
 
-## 새로운 도전의 시작: 캐나다 유학을 향한 여정 🍁
+## 새로운 도전의 시작
+### 캐나다 유학을 향한 여정 🍁
 
 군대를 제대하고 우연히 신청하다 얻게 된 캐나다 워홀 비자는 갓 제대한 저에게는 하늘이 점지해주신 운명이라고 생각했습니다. 단순 워홀이 아닌 캐나다에서의 학업까지를 큰 목표로 설정했는데 여유가 없던 가정 형편에 부모님에게 손을 빌리기 싫어 휴학을 신청하고 당장 일할 수 있는 일자리를 찾게 되었습니다. 
 
-<div style="background-color: #e6f3ff; border: 1px solid #b3d9ff; padding: 15px; margin: 20px 0; border-radius: 5px;">
+<div style="color: black; background-color: #e6f3ff; border: 1px solid #b3d9ff; padding: 15px; margin: 20px 0; border-radius: 5px;">
     <strong>💡 핵심 경험:</strong> 1년간의 리조트 근무를 통해 육체노동의 가치와 독립심, 도전 정신을 배웠습니다. 이 경험은 '전염'의 힘이 어떻게 작용하는지 직접 체험하는 기회였습니다.
 </div>
 
@@ -61,9 +63,10 @@ series: "개인 회고"
 
 오직 나를 위해서 육체와 시간을 최선을 다해 투자했다면 그 결과가 좋지 않더라도 원망 없이 견딜 수 있는 힘을 얻을 수 있다는 것을 깨달았습니다. 
 
-## 개발자로서 첫 디딤발 : 스타트업에서의 쓰라린 경험 🧑🏻‍💻
+## 개발자로서 첫 디딤발
+### 스타트업에서의 쓰라린 경험 🧑🏻‍💻
 
-<div style="background-color: #fff3cd; border: 1px solid #ffeeba; padding: 15px; margin: 20px 0; border-radius: 5px;">
+<div style="color: black; background-color: #fff3cd; border: 1px solid #ffeeba; padding: 15px; margin: 20px 0; border-radius: 5px;">
     <strong>🔍 도전과 성장:</strong> 프론트엔드 개발부터 시작해 백엔드 리팩토링까지 다양한 경험을 통해 개발자로서의 시야를 넓혔습니다.
 </div>
 
@@ -78,9 +81,10 @@ series: "개인 회고"
 
 백엔드는 네트워크 지식과 인프라 구축 경험이 반드시 필요하다는 것을 알게되어 다양한 경험과 인사이트가 부족하다는 쓰라린 현실도 알 수 있었습니다. 안타깝게도 해당 기업에서 좋은 사수를 만나지 못해 해당 부족한 부분에 대한 성장은 만들어내지 못했지만 좋은 개발 능력과 함께 소프트 스킬도 겸비해 후배 개발자들에게 좋은 사수가 되고 싶다는 목표도 가질 수 있게 되었습니다.
 
-## 미래를 향한 다짐 : Be Artist, Not Just Engineer 🚩
+## 미래를 향한 다짐
+### Be Artist, Not Just Engineer 🚩
 
-<div style="background-color: #d4edda; border: 1px solid #c3e6cb; padding: 15px; margin: 20px 0; border-radius: 5px;">
+<div style="color: black; background-color: #d4edda; border: 1px solid #c3e6cb; padding: 15px; margin: 20px 0; border-radius: 5px;">
     <strong>🌟 비전:</strong> 단순한 엔지니어를 넘어 아티스트 엔지니어로 성장하여, 코드 자체가 예술 작품이 되는 세상을 만들고자 합니다.
 </div>
 
@@ -97,7 +101,7 @@ series: "개인 회고"
 
 ## 마무리
 
-<div style="background-color: #f8d7da; border: 1px solid #f5c6cb; padding: 15px; margin: 20px 0; border-radius: 5px;">
+<div style="color: black; background-color: #f8d7da; border: 1px solid #f5c6cb; padding: 15px; margin: 20px 0; border-radius: 5px;">
     <strong>🎯 최종 목표:</strong> 열정과 성실함으로 끊임없이 성장하며, 주변에 긍정적인 영향을 미치는 '전염'의 원천이 되는 것입니다.
 </div>
 
