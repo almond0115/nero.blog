@@ -1,15 +1,15 @@
 ---
 title: "Git Rebase vs Merge vs Squash"
 description: "Git Rebase, Merge, Squash의 올바른 사용법을 알아봅시다."
-date: 2024-01-16
-update: 2024-01-16
+date: 2024-09-16
+update: 2024-09-16
 tags:
   - Git
   - GitHub
   - rebase
   - merge
   - squash
-series: "Git & GitHub"
+series: "Git으로 협업하기"
 ---
 
 ## Merge
