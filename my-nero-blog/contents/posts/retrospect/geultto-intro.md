@@ -7,7 +7,7 @@ tags:
   - geultto
   - DevLife
   - PersonalGrowth
-series: "글쓰는 또라이 10기"
+series: "글또 10기"
 ---
 
 ## 프롤로그 : 염탐꾼의 고백 🔦

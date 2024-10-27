@@ -8,7 +8,7 @@ tags:
   - developer-journey
   - personal-growth
   - life-map
-series: "개인 회고"
+series: "글또 10기"
 ---
 
 ## 프롤로그 : 전염의 힘 🌟
